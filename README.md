@@ -1,4 +1,7 @@
-🌟 Jéssica Jorge | Estudante de Tecnologia e Desenvolvimento Web <br>
+Bem-vindo(a)😊! <br> <br>Estou em uma jornada de aprendizado e criação no mundo do desenvolvimento web, sempre buscando transformar ideias em soluções digitais inovadoras.
+
+
+🌟 Jéssica Martins | Estudante de Tecnologia e Desenvolvimento Web <br>
 💡 Aprendendo e criando para transformar ideias em realidade<br>
 📍 São Paulo, Brasil
 
@@ -19,4 +22,5 @@ Metodologias ágeis (Scrum)
 
 📬 Vamos conectar? <br>
 💌 jessica.maartins@outlook.com <br>
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/jessicamgjorge)
+
