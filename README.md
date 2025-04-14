@@ -12,9 +12,6 @@ Estudante de Informática para Internet (Técnico) e Tecnologia da Informação 
 
 HTML | CSS | JavaScript
 
-Bootstrap | UI/UX no Figma
-
-Metodologias ágeis (Scrum)
 
 📌 Projetos em destaque:<br>
 🚀 Meu Portfólio (Em construção)<br>
