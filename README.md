@@ -10,7 +10,7 @@ Estudante de Informática para Internet (Técnico) e Tecnologia da Informação 
 
 🔹 Atualmente aprendendo:
 
-HTML | CSS | JavaScript
+HTML | CSS | JavaScript | Banco de Dados
 
 
 📌 Projetos em destaque:<br>
